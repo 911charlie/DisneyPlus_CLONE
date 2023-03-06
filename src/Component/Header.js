@@ -17,7 +17,7 @@ function Header() {
             </a>
             <a>
                 <img src='/images/watchlist-icon.svg' />
-                <span>WATCHLISTIUMASCKN</span>
+                <span>WATCHLIST</span>
             </a>
             <a>
                 <img src='/images/original-icon.svg' />

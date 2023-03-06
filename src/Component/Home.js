@@ -1,11 +1,15 @@
 import React from 'react'
 import styled from 'styled-components'
 import ImgSlider from './ImgSlider'
+import ChannelView from './ChannelView'
+import ListMovie from './ListMovie'
 
 function Home() {
   return (
     <Container>
       <ImgSlider />
+      <ChannelView />
+      <ListMovie />
     </Container>
   )
 }
